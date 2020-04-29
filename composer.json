@@ -1,5 +1,5 @@
 {
-    "name": "kostanjevec/php-apple-signin",
+    "name": "kprigel/php-apple-signin",
     "type": "library",
     "description": "A simple library to decode and parse Apple Sign In client tokens.",
     "keywords": ["apple","sign","in","ios","php","jwt","jwk"],
@@ -8,6 +8,11 @@
         {
             "name": "Griffin Ledingham",
             "email": "gcledingham@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Kevin Prigel",
+            "email": "kevin@statusrecap.com",
             "role": "Developer"
         }
     ],
